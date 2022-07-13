@@ -1,0 +1,54 @@
+{
+  "070cc09325083654792bc73684e84c38": {
+    "sceneGuid": "4e7f40958c82f5d42ac9ccd7af426da8",
+    "uniqueCameraId": "070cc09325083654792bc73684e84c38",
+    "name": "importantItem",
+    "pointX": 30.6405334,
+    "pointY": -24.9850521,
+    "pointZ": -19.312479,
+    "directionX": -0.0441376045,
+    "directionY": -0.915858448,
+    "directionZ": 0.364028662,
+    "directionW": -0.187301576,
+    "zoom": 21.1053562
+  },
+  "8533ae2931ec26e44ba4827961b2afde": {
+    "sceneGuid": "4e7f40958c82f5d42ac9ccd7af426da8",
+    "uniqueCameraId": "8533ae2931ec26e44ba4827961b2afde",
+    "name": "carpark",
+    "pointX": 24.554657,
+    "pointY": -20.0832081,
+    "pointZ": 48.8275452,
+    "directionX": -0.321803451,
+    "directionY": -0.145013154,
+    "directionZ": 0.0797050744,
+    "directionW": -0.93669796,
+    "zoom": 21.1053562
+  },
+  "2db5c3e34c8e8d149ac6acd99266b1bc": {
+    "sceneGuid": "4e7f40958c82f5d42ac9ccd7af426da8",
+    "uniqueCameraId": "2db5c3e34c8e8d149ac6acd99266b1bc",
+    "name": "startScene",
+    "pointX": 5.85887146,
+    "pointY": -14.1688023,
+    "pointZ": 32.6654434,
+    "directionX": -0.266159862,
+    "directionY": -0.132536471,
+    "directionZ": 0.06860737,
+    "directionW": -0.9566706,
+    "zoom": 21.1053562
+  },
+  "2b7e2db2b4e2aa242b76cd87ead1dbb7": {
+    "sceneGuid": "4e7f40958c82f5d42ac9ccd7af426da8",
+    "uniqueCameraId": "2b7e2db2b4e2aa242b76cd87ead1dbb7",
+    "name": "endScene",
+    "pointX": 73.71643,
+    "pointY": -18.9440823,
+    "pointZ": 25.2936,
+    "directionX": -0.331046,
+    "directionY": -0.395203352,
+    "directionZ": 0.1914286,
+    "directionW": -0.840186,
+    "zoom": 21.1053562
+  }
+}
